@@ -16,11 +16,14 @@ A VBA Script was created that will loop through all the stocks for one year and 
 
 The final report was then generated using this data: https://bit.ly/3xU53Gc
 
-## Final Report Screen Shots
+# Final Report Screen Shots
 ----
-#### 2014 Analysis
-![2014](img.jpg)
-#### 2015 Analysis
-![2015](img.jpg)
-#### 2016 Analysis
-![2016](img.jpg)
+## 2014 Analysis
+---
+![2014](img/2014.PNG)
+## 2015 Analysis
+---
+![2015](img/2015.PNG)
+## 2016 Analysis
+---
+![2016](img/2016.PNG)
